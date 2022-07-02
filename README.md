@@ -1,8 +1,9 @@
 ### Hello, I'm Navid and Wecome to my Github
 
 ###I'm a Soocer Player, Developer, and Gamer!
-- I'm currently helping my collage friends with thier projects 
+- I'm currently helping my collage friends with thier projects
 - Everyday I'm learning new something new in the world of coding
+- When I get tired I play guitar or piano!
 - My hobbies are building something new and while I build the new project, I think about gaming and when I game, I think about the bugs on the project!  
 
 
