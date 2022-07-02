@@ -1,3 +1,3 @@
-[![MasterHead]([your image link](https://giphy.com/gifs/coding-zOvBKUUEERdNm))](your GitHub link)
+[![MasterHead]([your image link](https://giphy.com/gifs/coding-zOvBKUUEERdNm))}
 My name is Navid and this is muy hobby....
 
