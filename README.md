@@ -1,6 +1,6 @@
-### Hello, I'm Navid and Wecome to my Github
+## Hello, I'm Navid and Wecome to my Github
 
-### I'm a Soocer Player, Developer, and Gamer!
+# I'm a Soocer Player, Developer, and Gamer!
 - I'm currently helping my collage friends with thier projects
 - Everyday I'm learning new something new in the world of coding
 - When I get tired I play guitar or piano!
