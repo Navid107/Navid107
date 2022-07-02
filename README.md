@@ -8,7 +8,7 @@
 
 
 ### Contect me
-<img height="32" | LinkedIn width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lN1BnRDW7jJFEm6ysymt77S3kqnSSinQdWiPIfBSZVkAzK155nNPvtzeTbJjnXI8dLo&usqp=CAU" [linkedin]/>
+[<img align="left alt="Navid" | LinkedIn  width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lN1BnRDW7jJFEm6ysymt77S3kqnSSinQdWiPIfBSZVkAzK155nNPvtzeTbJjnXI8dLo&usqp=CAU" />[linkedin]
 
 
 
