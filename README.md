@@ -8,7 +8,7 @@
 
 
 ### Contect me
-[<img align="left" alt="mohammd yazdani | Linkedin" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mohammd yazdani | Linkedin" width="22px" src="https://www.citypng.com/public/uploads/preview/linkedin-square-white-icon-transparent-png-11640440452zi2ykndpw2.png" />][linkedin]
 
 
 
