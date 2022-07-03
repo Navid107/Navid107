@@ -6,10 +6,10 @@
 - When I get tired I play guitar or piano!
 - My hobbies are building something new and while I build the new project, I think about gaming and when I game, I think about the bugs on the project!  
 
-
+<br>
 ### Contect me
 [<img align="left" alt="mohammd yazdani | Linkedin" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br />
 
 
 
