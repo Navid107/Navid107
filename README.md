@@ -1,5 +1,5 @@
 #### Hello, I'm Navid and Wecome to my Github
-
+![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
 ## I'm a Soocer Player, Developer, and Gamer!
 - I'm currently helping my collage friends with thier projects
 - Everyday I'm learning something new in the world of coding.    
