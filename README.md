@@ -1,5 +1,5 @@
 ![myImage](https://media2.giphy.com/media/i4MAH84pqe2m2aVojc/200w.webp?cid=ecf05e47wllzlffmh4yz9c94tgrhtabokcmolrdlwvo7r2gc&rid=200w.webp&ct=g)
-#### I'm Navid and Wecome to my Github
+#### I'm Navid and Welcome to my Github
 
 ## I'm a Soocer Player, Developer, and Gamer!
 - I'm currently helping my collage friends with thier projects
