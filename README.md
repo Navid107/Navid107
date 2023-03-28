@@ -24,3 +24,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/navidyazdani7
+
+.
